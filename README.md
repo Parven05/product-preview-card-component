@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-using-css-flex-HUpwXovAmY)
-- Live Site URL: [https://parven05.github.io/qr-code-component/)
+- Live Site URL: [https://parven05.github.io/product-preview-card-component/)
 
 ## My process
 
