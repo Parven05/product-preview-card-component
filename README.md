@@ -14,7 +14,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -27,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![screenshot](https://github.com/Parven05/product-preview-card-component/issues/1#issue-1360766652)
+![Untitled](https://user-images.githubusercontent.com/101796812/188257827-db47f590-f5a6-4c8d-a204-ec80298ee5c5.png)
 
 ### Links
 
@@ -44,24 +43,11 @@ Users should be able to:
 
 ### What I learned
 
-From this i learned how to use flexbox with div. It make me more understand in that CSS flexbox topic even more
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-
-```css
-body {
-  background-color: hsl(212, 45%, 89%);
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-```
+From this i more understand about Flexbox and how the position relative & absolute work !
 
 ### Continued development
 
-I think i still struggle with flexbox box and grid properties.So i need to do more scratch works to improve my CSS skills
+Need to learn topic grid and do more exercises related to CSS properties !
 
 ### Useful resources
 
