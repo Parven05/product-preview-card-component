@@ -1,0 +1,98 @@
+* {
+  background-color:hsl(30, 38%, 92%);
+  font-size: 14px;
+}
+
+.container {
+  /* border: 5px solid black; */
+  display: flex;
+  justify-content: center;
+  align-items: left;
+  margin: 10%;
+}
+
+.sub-container {
+  /* border: 5px solid black; */
+  max-width: 220px;
+  height: auto; 
+  /* display: flex; 
+  /* flex-direction: column; */
+  background-color:hsl(0, 0%, 100%);
+  padding-left: 1em;
+  padding-right: 2em;
+  border-top-right-radius: 0.5em;
+  border-bottom-right-radius: 0.5em;
+}
+.sub-container p {
+  background-color: hsl(0, 0%, 100%);
+}
+
+#image {
+  height: 400px;
+  width: auto;
+  border-top-left-radius: 0.5em;
+  border-bottom-left-radius: 0.5em;
+} 
+
+.tag {
+  position: relative;
+  top: 0.6em;
+  font-family: Montserrat, sans-serif;
+  color: hsl(228, 12%, 48%);
+  /* margin-top: 1.8em; */
+  /* border: 5px solid black; */
+}
+
+.title {
+  /* border: 5px solid black; */
+  font-family: Fraunces, serif;
+  font-size: 2.1em;
+}
+
+.description {
+  font-family: Montserrat, sans-serif;
+  color: hsl(228, 12%, 48%);
+  font-size: 0.9em;
+  position: relative;
+  bottom: 0.6em;
+}
+
+.price {
+  font-family: Fraunces, serif;
+  font-size: 1.8em;
+  color: hsl(158, 36%, 37%);
+  position: relative;
+  bottom: 0.35em;
+}
+
+#old-price {
+  color: hsl(228, 12%, 48%);
+  background-color: hsl(0, 0%, 100%);
+  text-decoration: line-through;
+  position: relative;
+  left: 1em;
+  bottom: 0.3em;
+}
+
+.button-container {
+  display: flex;
+}
+
+#button {
+  background-color:hsl(158, 36%, 37%);
+  border: none;
+  color:hsl(0, 0%, 100%);
+  font-family: Montserrat, sans-serif;
+  padding: 0.75em;
+  border-radius: 0.5em;
+  flex-grow: 1;
+}
+
+.cart {
+  background-color: hsl(158, 36%, 37%);
+  position: relative;
+  top: 0.2em;
+}
+
+
+
